@@ -3,6 +3,8 @@ change1.1
 change1.2
 change1.3
 
+change1.4
+
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
