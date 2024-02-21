@@ -1,5 +1,6 @@
 # free-for.dev
 change2.1
+change2.2
 
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
